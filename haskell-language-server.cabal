@@ -759,7 +759,7 @@ test-suite hls-hlint-plugin-tests
 
 flag stan
   description: Enable stan plugin
-  default:     True
+  default:     False
   manual:      True
 
 common stan
